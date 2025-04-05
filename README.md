@@ -23,7 +23,6 @@ This project builds a machine learning model to predict house prices using the A
 - pandas, numpy
 - scikit-learn
 - matplotlib, seaborn
-- (optional) streamlit or fastapi for deployment
 
 ## 📦 Installation
 
